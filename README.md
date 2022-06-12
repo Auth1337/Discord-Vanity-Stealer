@@ -1,2 +1,5 @@
 # Discord-Vanity-Stealer
-Discord Vanity Stealer, Fastest Speed
+> Usage: `python main.py`
+
+# Support Server
+> [Click Here](https://discord.gg/lgnop)
